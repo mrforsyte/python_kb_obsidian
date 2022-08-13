@@ -79,16 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9cb3e7114dd08352",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b6e11888f050e34c",
   "lastOpenFiles": [
+    "Iterators.md",
     "Enumerate.md"
   ]
 }

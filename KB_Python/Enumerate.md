@@ -50,4 +50,4 @@ for count, season in enumerate(seasons, start=1):
 
 
 ## Understanding _enumerate()_
-it's built-in function - no importing required, available from standard Python library. Requires object that supports iteration
+it's built-in function - no importing required, available from standard Python library. Requires object that supports iteration which is described  here [[Iterators]]
