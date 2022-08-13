@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1b9aaddfea0caad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e11888f050e34c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Enumerate.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "459104cb6913a6d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9bb842be544c421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab16e594d5e4e9f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc2d8746345304c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb26ad673e64b657",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef022a14fda67e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5fd3a2d28d6993",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enumerate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6e11888f050e34c",
+  "lastOpenFiles": [
+    "Enumerate.md"
+  ]
+}
