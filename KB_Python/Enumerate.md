@@ -49,5 +49,23 @@ for count, season in enumerate(seasons, start=1):
 *  No accessing variables
 
 
-## Understanding _enumerate()_
-it's built-in function - no importing required, available from standard Python library. Requires object that supports iteration which is described  here [[Iterators]]
+## Understanding _enumerate()_:
+* it's built-in function - no importing required, available from standard Python library. Requires object that supports iteration which is described  here [[Iterators]]
+* Accepts _start_ as an **optional argument** 
+* Reutrns _iterator_
+* __Yields__ a tuple: count,value
+
+### Building own my_enumerate function
+
+```py
+
+def my_enum(sequence, start=0):
+    count = start 
+    for item in sequence: 
+        yield count, item
+        count += 1
+
+```
+
+**Summary**
+It's pretty much straightforward, but it touches topics like [[Generators]] and [[Iterators]] and there is so much fun stuff to learn.

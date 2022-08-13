@@ -97,7 +97,8 @@
   },
   "active": "b6e11888f050e34c",
   "lastOpenFiles": [
-    "Iterators.md",
-    "Enumerate.md"
+    "Generators.md",
+    "Enumerate.md",
+    "Iterators.md"
   ]
 }
