@@ -60,3 +60,18 @@ course/days/01-03-datetimes/code$ mypy datetime_date.py
 Success: no issues found in 1 source file
 
 ```
+## Annotations
+
+```py
+n [30]: pi: float = 3.456
+
+In [31]: pi
+Out[31]: 3.456
+
+In [32]: type(pi)
+Out[32]: float
+
+In [33]: __annotations__
+Out[33]: {'pi': float}
+
+```
