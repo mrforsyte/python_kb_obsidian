@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Representing data in Python.md",
+            "file": "Collections.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Representing data in Python.md",
+                "file": "Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,15 @@
   },
   "active": "9c3e63f68b55160f",
   "lastOpenFiles": [
-    "Type checking.md",
-    "Generators.md",
-    "Collections.md",
     "Decorator.md",
-    "Sqlite3.md",
-    "Recursion.md",
+    "Enumerate.md",
+    "Generators.md",
     "Iterators.md",
-    "Enumerate.md"
+    "List Comprehensions.md",
+    "Recursion.md",
+    "Collections.md",
+    "Untitled.md",
+    "Sqlite3.md",
+    "Representing data in Python.md"
   ]
 }

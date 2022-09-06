@@ -1,5 +1,18 @@
 # Collections
 
+A collection is data that answers yes to all further questions:
+* Can I know the size of this data? YES - __SIzed__
+* Can I produce elements from this data one at a time? Yes - __iterable__
+* Can I check whether an element is in this data set? Yes - __Container__
+Not all collection encode data in the same manner:
+* Is data ordered(sequential) or unordered?
+* Is the data assiciative. mapping vetween keys and values?
+* is the data unique?
+
+Depending on answers the data may be __Sequence__, __Set__, __Mapping__;
+
+
+
 ## namedtuple
 ```py
 from collections import namedtuple
